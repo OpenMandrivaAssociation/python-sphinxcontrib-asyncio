@@ -3,7 +3,7 @@
 
 Name:		python-sphinxcontrib-asyncio
 Version:	0.3.0
-Release:	1
+Release:	2
 Summary:	Sphinx extension to support coroutines in markup
 URL:		https://pypi.org/project/sphinxcontrib-asyncio/
 License:	Apache-2.0
